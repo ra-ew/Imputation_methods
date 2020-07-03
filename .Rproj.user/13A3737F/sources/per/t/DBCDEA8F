@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593758920514.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1860196420",
+    "id" : "DBCDEA8F",
+    "lastKnownWriteTime" : 1593771886,
+    "last_content_update" : 1593771886496,
+    "path" : "C:/Users/Ewelina/Desktop/R projects/Imputation/IMPUTATION/code.R",
+    "project_path" : "code.R",
+    "properties" : {
+        "cursorPosition" : "171,0",
+        "scrollLine" : "165",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

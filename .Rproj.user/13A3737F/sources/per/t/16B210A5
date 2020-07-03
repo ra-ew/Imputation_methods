@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593759369789.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "16B210A5",
+    "lastKnownWriteTime" : 5002480361505834798,
+    "last_content_update" : 1593759369789,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "F2556F5C",
+        "caption" : "data_nas2imp",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=data_nas2imp&cache_key=F2556F5C",
+        "displayedObservations" : 400,
+        "environment" : "",
+        "object" : "data_nas2imp",
+        "preview" : 0,
+        "totalObservations" : 400,
+        "variables" : 11
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

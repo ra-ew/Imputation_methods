@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593759348741.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4B0B08BB",
+    "lastKnownWriteTime" : 5292976843906638626,
+    "last_content_update" : 1593759348741,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "7B25DDD2",
+        "caption" : "data_man_nas",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=data_man_nas&cache_key=7B25DDD2",
+        "displayedObservations" : 400,
+        "environment" : "",
+        "object" : "data_man_nas",
+        "preview" : 0,
+        "totalObservations" : 400,
+        "variables" : 11
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
